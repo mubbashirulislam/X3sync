@@ -1,11 +1,9 @@
 
-
-```markdown
-# Browser Data Sync Tool
+# X3sync
 
 ## Overview
 
-The Browser Data Sync Tool is a Python script that allows users to synchronize their browser data—including bookmarks, cookies, and passwords—across multiple browsers to a USB drive. This tool is particularly useful for users who frequently switch between different devices and want to keep their browser settings consistent. 
+X3sync Tool is a Python script that allows users to synchronize their browser data—including bookmarks, cookies, and passwords—across multiple browsers to a USB drive. This tool is particularly useful for users who frequently switch between different devices and want to keep their browser settings consistent. 
 
 ### Supported Browsers
 
