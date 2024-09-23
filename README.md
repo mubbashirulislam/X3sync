@@ -1,5 +1,6 @@
----
+
 # X3sync
+---
 
 ![video](showcase.gif)
 
