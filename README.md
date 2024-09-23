@@ -1,6 +1,8 @@
 
 # X3sync
 
+showcase.gif
+
 ## Overview
 
 **X3sync** is a powerful Python tool designed to synchronize your browser data—including bookmarks, cookies, and passwords—across multiple browsers to a USB drive. This utility is especially beneficial for users who frequently switch between different devices and wish to maintain consistent browser settings.
