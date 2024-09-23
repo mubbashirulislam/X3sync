@@ -1,7 +1,7 @@
 
 # X3sync
 
-showcase.gif
+![video](showcase.gif)
 
 ## Overview
 
