@@ -1,4 +1,4 @@
-Here's your customized `README.md` for the Browser Data Sync Tool, clearly stating that you developed it with your knowledge and the assistance of AI:
+
 
 ```markdown
 # Browser Data Sync Tool
